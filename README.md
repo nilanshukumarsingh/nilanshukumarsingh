@@ -123,9 +123,12 @@ I'm a Computer Science student focused on building performant, intuitive web int
 <h3>&nbsp;</h3>
 
 <h3 align="center">
+  <!--
     <a href="https://github.com/ryo-ma/github-profile-trophy">
+      </a>
+  -->
         <img src="https://github-profile-trophy.vercel.app/?username=nilanshukumarsingh&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
-    </a>
+    
 </h2>
 
 <!--
