@@ -112,22 +112,28 @@ I'm a Computer Science student focused on building performant, intuitive web int
 <div align="center">
   <p>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nilanshukumarsingh&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" />
+  </p>
+  <p>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilanshukumarsingh&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html,java&layout=compact&langs_count=8&theme=midnight-purple"/>
   </p>
   
   <p> 
     <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nilanshukumarsingh&theme=midnight_purple" alt="nilanshukumarsingh"/>
   </p>
+  
 </div>
 
 <h3>&nbsp;</h3>
 
+<h3 aligh="left"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemlwOGFkbTFzbHdmOXQ2eGR5emJ0dzhmc2ExNmd3a2ZnYzB2MWYxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ohhwJPSL00H2r6Rhe/giphy.gif" width="25px" height="20px"> GitHub Trophies</h2>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">
   <!--
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       </a>
-  -->
-        <img src="https://github-profile-trophy.vercel.app/?username=nilanshukumarsingh&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
+          <img src="https://github-profile-trophy.vercel.app/?username=nilanshukumarsingh&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" /> 
+        -->
+        <img src="https://github-profile-trophy.vercel.app/?username=nilanshukumarsingh&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
     
 </h2>
 
@@ -172,4 +178,8 @@ I'm a Computer Science student focused on building performant, intuitive web int
   <a href="mailto:nilanshukumarsingh2005@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="nilanshu-email" />
   </a>
+</div>
+<br>
+<div align="center">
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Anton&weight=600&size=16&duration=2500&pause=1&color=00B8B5&center=true&vCenter=true&width=285&height=20&lines=%C2%A9+BUILD+WITH+%E2%9D%A4%EF%B8%8F;%C2%A9+BUILD+BY+NILANSHU+KUMAR+SINGH" alt="build with love svg" />
 </div>
