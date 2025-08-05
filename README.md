@@ -26,7 +26,7 @@ I'm a Computer Science student focused on building performant, intuitive web int
 <!-- - Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music -->
   <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nilanshukumarsingh&label=Profile%20views&color=0e75b6&style=flat" alt="sonwjnn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nilanshukumarsingh&label=Profile%20views&color=0e75b6&style=flat" alt="nilanshukumarsingh" /> </p>
 
 <h3>&nbsp;</h3>
 
